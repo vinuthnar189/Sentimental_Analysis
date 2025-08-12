@@ -104,14 +104,4 @@ Make sure you have the following installed:
 2. **View Results:**
    - The result will be displayed below the input field, showing whether the sentiment is positive or negative.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-Feel free to reach out if you have any questions or want to connect:
-
-- **Email:** mar27benitez@gmail.com
-- **LinkedIn:** [Mar Benitez](https://www.linkedin.com/in/mar-benitez-506910192/)
-- **GitHub:** [Mar Benitez](https://github.com/MarBenitez/)
