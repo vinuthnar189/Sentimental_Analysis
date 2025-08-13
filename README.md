@@ -15,9 +15,7 @@ This project is a sentiment analysis web application powered by Flask and Huggin
   - [Running in Development](#running-in-development)
   - [Running in Production](#running-in-production)
 - [Usage](#usage)
-- [Deployment](#deployment)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
